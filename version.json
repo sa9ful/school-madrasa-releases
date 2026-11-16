@@ -1,10 +1,10 @@
 {
- "versionCode": 4,
- "versionName": "1.0.4",
- "apk": "SchoolMadrasa-1.0.4.apk",
- "sha256": "a3601463430a6acaa713dd4540f2592d7a8afa321260f351a6f36f3fe9cafa7c",
- "apk32": "SchoolMadrasa-1.0.4-32bit.apk",
- "sha256_32": "1b0be23378df64a8f3745be1774932c19af066bfecc0c464c1a5399121b1b751",
- "notes": "অ্যাপের ভেতর থেকে আপডেট চালু",
+ "versionCode": 5,
+ "versionName": "1.0.5",
+ "apk": "SchoolMadrasa-1.0.5.apk",
+ "sha256": "71eb1397eb4f895d142ab996160b63b1302f85564549c8373370561424cd5c77",
+ "apk32": "SchoolMadrasa-1.0.5-32bit.apk",
+ "sha256_32": "9878b6e7aa191717206a61cac1a59a5e7c0f596c3bdbafe2cc094c0bf9afb4ca",
+ "notes": "স্থায়ী সাইনিং কী দিয়ে সাইন",
  "date": "2026-11-16"
 }
