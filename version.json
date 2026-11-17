@@ -1,10 +1,10 @@
 {
- "versionCode": 9,
- "versionName": "1.0.9",
- "apk": "SchoolMadrasa-1.0.9.apk",
- "sha256": "bf758da6c337de0e0810c936d6e5076d07f8db99d17423e08dcf3256ef410c1a",
- "apk32": "SchoolMadrasa-1.0.9-32bit.apk",
- "sha256_32": "28fe1e8365a5e0ce9a80be662c91f371fea1968ebb4748362df588c7022ca445",
- "notes": "রেজাল্ট কার্ড, সনদপত্র, নতুন আইডি কার্ড, প্রোফাইল, পরীক্ষার ফি ও হাজিরার নোটিফিকেশন",
+ "versionCode": 10,
+ "versionName": "1.0.10",
+ "apk": "SchoolMadrasa-1.0.10.apk",
+ "sha256": "704b62acbf6bee44d91e77e8135e4cad1ee187ea8108545500b7f839aad45047",
+ "apk32": "SchoolMadrasa-1.0.10-32bit.apk",
+ "sha256_32": "4699cfe9b571e4cc673bdcb2eeacf4f54225b3cd4443354b16fa1c7bf88b1693",
+ "notes": "আইডি কার্ড ঠিক করা: সামনে-পেছন পাশাপাশি, উচ্চমানের PNG",
  "date": "2026-11-17"
 }
