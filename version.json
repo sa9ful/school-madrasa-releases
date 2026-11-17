@@ -1,10 +1,10 @@
 {
- "versionCode": 10,
- "versionName": "1.0.10",
- "apk": "SchoolMadrasa-1.0.10.apk",
- "sha256": "704b62acbf6bee44d91e77e8135e4cad1ee187ea8108545500b7f839aad45047",
- "apk32": "SchoolMadrasa-1.0.10-32bit.apk",
- "sha256_32": "4699cfe9b571e4cc673bdcb2eeacf4f54225b3cd4443354b16fa1c7bf88b1693",
- "notes": "আইডি কার্ড ঠিক করা: সামনে-পেছন পাশাপাশি, উচ্চমানের PNG",
+ "versionCode": 12,
+ "versionName": "1.0.12",
+ "apk": "SchoolMadrasa-1.0.12.apk",
+ "sha256": "bfa547d339934d4a49f829638f982d13c1c1cf76da4d20de2b41fc63d5c3e84f",
+ "apk32": "SchoolMadrasa-1.0.12-32bit.apk",
+ "sha256_32": "99d7ef2393bd9c25401ff307588aed80dbfcd0090b6782f27c5d0784ab2ea59d",
+ "notes": "শুধু হোম স্ক্রিনের নাম বদল, ভেতরের নাম আগের মতো",
  "date": "2026-11-17"
 }
