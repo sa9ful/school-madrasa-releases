@@ -1,10 +1,10 @@
 {
- "versionCode": 7,
- "versionName": "1.0.7",
- "apk": "SchoolMadrasa-1.0.7.apk",
- "sha256": "3a69019eaa23b8a1a050607104dd20e81f6a42ad5bb1339652fe029e34105a4d",
- "apk32": "SchoolMadrasa-1.0.7-32bit.apk",
- "sha256_32": "af6b5b791ff757c8ff624c253e47eec2c00c29cfaf3f3c4b926f93cc1c1bee38",
- "notes": "ইউনিক আইডি, শিক্ষাবর্ষ, শিক্ষার্থী লগইন ও আংশিক বেতন",
+ "versionCode": 8,
+ "versionName": "1.0.8",
+ "apk": "SchoolMadrasa-1.0.8.apk",
+ "sha256": "5530d4e6eb76f2abe7aa9793516c3dbfff2f65eab80902597f12f339b34a2a1b",
+ "apk32": "SchoolMadrasa-1.0.8-32bit.apk",
+ "sha256_32": "f28c858302f8838ad296412cbec2a62e885ae0a8b7004c632ae88192a8b29598",
+ "notes": "প্রোফাইল ছবি ও খোঁজার সাজেশন",
  "date": "2026-11-17"
 }
