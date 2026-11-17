@@ -1,10 +1,10 @@
 {
- "versionCode": 6,
- "versionName": "1.0.6",
- "apk": "SchoolMadrasa-1.0.6.apk",
- "sha256": "5bc7cc077d7496feb711e1efce76064b22ef8630b822fafd73da0111094bb7aa",
- "apk32": "SchoolMadrasa-1.0.6-32bit.apk",
- "sha256_32": "06fed32e1428eea5ede13e2d9c535ba73a97358845297659076783d881509b8e",
- "notes": "সেটআপ বোতাম সবসময় দেখানো ও ডাটাবেস সমস্যার পরিষ্কার বার্তা",
+ "versionCode": 7,
+ "versionName": "1.0.7",
+ "apk": "SchoolMadrasa-1.0.7.apk",
+ "sha256": "3a69019eaa23b8a1a050607104dd20e81f6a42ad5bb1339652fe029e34105a4d",
+ "apk32": "SchoolMadrasa-1.0.7-32bit.apk",
+ "sha256_32": "af6b5b791ff757c8ff624c253e47eec2c00c29cfaf3f3c4b926f93cc1c1bee38",
+ "notes": "ইউনিক আইডি, শিক্ষাবর্ষ, শিক্ষার্থী লগইন ও আংশিক বেতন",
  "date": "2026-11-17"
 }
